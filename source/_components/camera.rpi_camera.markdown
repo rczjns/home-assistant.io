@@ -18,7 +18,7 @@ The `rpi` platform allows you to integrate the Raspberry Pi camera into Home Ass
 ```yaml
 # Example configuration.yaml entry
 camera:
-  platform: raspberry_camera
+  platform: rpi_camera
   name: Raspberry Pi Camera
   image_width: 640
   image_height: 480
